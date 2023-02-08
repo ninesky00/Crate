@@ -156,23 +156,13 @@ Click on image to view fullscreen and zoom
 
 
 ## Contributors
-- Ebou Jobe - [GitHub](https://github.com/ebouJ)
-- Nenad Radovanovic - [GitHub](https://github.com/nrcloud) · [Twitter](https://twitter.com/publicshone)
-- Nicholas Drew - [GitHub](https://github.com/nickdrew)
-- Mateus Abdala - [GitHub](https://github.com/mateusabdala)
-- Hossein Nedaee - [GitHub](https://github.com/hosseinnedaee)
-- Mohammad Afzal - [GitHub](https://github.com/afzalex)
+- Joe Jiang - [GitHub](https://github.com/ninesky00)
+- Allison Dietz - [GitHub](https://github.com/dietza)
+- Richard Tyler - [GitHub](https://github.com/richardltyler)
+- Kelly Dinneen - [GitHub](https://github.com/kellydinneen)
 - [YOUR NAME HERE] - Feel free to contribute to the codebase by resolving any open issues, refactoring, adding new features, writing test cases or any other way to make the project better and helpful to the community. Feel free to fork and send pull requests.
 
 
-## Donate
-If you liked this project, you can donate to support it ❤️
-
-[![Donate via PayPal](https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/mix/paypal-me-smaller.png)](http://paypal.me/atulmy) [![Become a Patreon](https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/mix/patreon.png?v=1)](https://www.patreon.com/atulmy)
-
-
-## Hire me
-Looking for a developer to build your next idea or need a developer to work remotely? Get in touch: [atul.12788@gmail.com](mailto:atul.12788@gmail.com)
 
 
 ## License
